@@ -353,6 +353,8 @@ This enables the Splunk dashboard to show:
 
 ---
 
+<img src="images/splunk-logs-1.png" alt="Splunk logs" width="800"/>
+
 ## Demo Flow
 
 ```text
