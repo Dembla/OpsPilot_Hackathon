@@ -182,6 +182,7 @@ SELECT
 FROM logs_raw
 WHERE `level` = 'ERROR';
 ```
+<img src="images/flink-workspace.png" alt="Splunk logs" width="400"/>
 
 ### Purpose
 
