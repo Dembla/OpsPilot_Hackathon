@@ -1,5 +1,5 @@
 # CONFLUENT CLOUD Hackathon
-This was the hackathon project based on confluent cloud, kafka, flink, AI 
+This was the hackathon project from SCRATCH based on confluent cloud, kafka, flink, AI 
 
 # OpsPilot: AI-Powered Streaming Incident Investigator
 
