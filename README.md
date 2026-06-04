@@ -515,7 +515,7 @@ If testing older events, use:
 ```text
 All time
 ```
-Splunk Query Result 
+Splunk Query Result ![Splunk logs](images/Splunk1.png)
 
 ## Example Demo Messages
 
